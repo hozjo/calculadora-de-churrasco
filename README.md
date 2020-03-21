@@ -1,7 +1,7 @@
 # Calculadora de Churrasco criada para fins educativos
 
 # A lógica:
-50 de carne 50g vegetais por carnívoro/h;
+50g de carne 50g vegetais por carnívoro/h;
 100g vegetais por vegetariano/h;
 
 1 latinha de cerveja (365ml) por pessoa/h;
